@@ -1,6 +1,9 @@
 # Example
 从CLIP到cogvlm[https://www.zhihu.com/question/495007578/answer/3441793158]
+
 clip [https://zhuanlan.zhihu.com/p/660476765]
+
+cogvlm2 [https://blog.csdn.net/qq_40999403/article/details/139143883?spm=1001.2101.3001.6650.5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7Ebaidujs_baidulandingword%7ECtr-5-139143883-blog-139125447.235%5Ev43%5Epc_blog_bottom_relevance_base8]
 
 # 为什么需要模态对齐
 
